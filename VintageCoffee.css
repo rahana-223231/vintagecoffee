@@ -1,0 +1,263 @@
+
+
+
+    @import url('https://fonts.googleapis.com/css2?family=Anek+Telugu&family=Anton&family=DynaPuff&family=Josefin+Sans:ital,wght@1,700&family=Oswald:wght@300&family=PT+Serif:wght@700&family=Pacifico&family=Qwitcher+Grypen&family=Roboto+Mono:ital,wght@1,700&family=Uncial+Antiqua&family=Yanone+Kaffeesatz&display=swap');
+
+    @import url('https://fonts.googleapis.com/css2?family=Anek+Telugu&family=Anton&family=DynaPuff&family=Josefin+Sans:ital,wght@1,700&family=Lobster&family=Oswald:wght@300&family=PT+Serif:wght@700&family=Pacifico&family=Qwitcher+Grypen&family=Roboto+Mono:ital,wght@1,700&family=Uncial+Antiqua&family=Yanone+Kaffeesatz&display=swap');
+    
+    @import url('https://fonts.googleapis.com/css2?family=Anek+Telugu&family=Anton&family=DynaPuff&family=Josefin+Sans:ital,wght@1,700&family=Lobster&family=Oswald:wght@300&family=PT+Serif:wght@700&family=Pacifico&family=Qwitcher+Grypen&family=Roboto+Condensed:ital@1&family=Roboto+Mono:ital,wght@1,700&family=Uncial+Antiqua&family=Yanone+Kaffeesatz&display=swap');
+    
+body{
+    background-image: url("./images/vintage\ back.jpg");}
+
+   
+    
+    .parent1{
+        background-color: rgb(0, 0, 0);
+        width: 102%;
+        height: 111px;
+        margin-top: -8px;
+        margin-left: -8px;
+        display: flex;
+        border-radius: 2%;
+    }
+    #H1{
+        font-family: 'Uncial Antiqua', cursive;
+        text-align: left;
+        color: rgb(136, 2, 2);
+        margin-left: 103px;
+        width: 119%;
+    }
+    #h1{
+        margin-left: 114px;
+        margin-top: -18px;
+        width: 96%;
+    }
+    
+    #c1{
+        margin-top: 71px;
+        margin-left: 234px;
+    }
+        
+    #c2{
+        margin-top: 71px;
+        margin-left: 182px;
+    }
+    #c3{
+        margin-top: 71px;
+        margin-left: 243px;
+    }
+   .image1{
+    width: 90%;
+    height: 299px;
+    border-radius: 50%;
+    margin-top: 54px;
+    margin-left: -4px;
+   }
+   .aboutus {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    color: rgb(21 19 19);
+    margin-left: -828px;
+    margin-top: -276px;
+    margin-right: 931px;
+    width: 120%;
+    height: 281px;
+    border: 25px solid #232a37;
+   }
+   hr{
+    margin-left: 118px;
+    margin-top: -21px;
+    width: 61%;
+   }
+   .parent2{
+    background-color: rgb(0, 0, 0);
+    width: 400%;
+    height: 111px;
+    margin-top: 9px;
+    margin-left: -961px;
+    display: flex;
+    border-radius: 2%;
+}
+#H2{
+    font-family: 'Uncial Antiqua', cursive;
+    text-align: left;
+    color: rgb(136, 2, 2);
+    margin-left: 111px;
+    width: 119%;
+}
+.img2{
+    width: 47%;
+    height: 299px;
+    border-radius: 50%;
+    margin-top: 48px;
+    margin-left: -102px;
+    padding: 19px;
+}
+#p1{
+    background-color:white;
+    margin-top: -9px;
+    margin-left: -38px;
+    width: 116px;
+    color: black;
+}
+#b1{
+    background-color: #825048;
+    margin-top: -15px;
+    margin-left: -19px;
+    box-shadow: inset;
+}
+#b1:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-color: bisque;}
+
+    .img3{
+        width: 47%;
+        height: 299px;
+        border-radius: 50%;
+        margin-top: 45px;
+        margin-left: -43px;
+        padding: 19px;
+    }
+    #p2{
+        background-color:white;
+        margin-top: -9px;
+        margin-left: 16px;
+        width: 116px;
+        color: black;
+    }
+    #b2{
+        background-color: #825048;
+        margin-top: -15px;
+        margin-left: 40px;
+        box-shadow: inset;
+    }
+    #b2:hover{
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+        background-color: bisque;}
+    
+        .img4{
+            width: 47%;
+    height: 299px;
+    border-radius: 50%;
+    margin-top: 48px;
+    margin-left: 19px;
+    padding: 19px;
+        }
+        #p3{
+            background-color:white;
+            margin-top: -9px;
+            margin-left: 81px;
+            width: 116px;
+            color: black;
+        }
+        #b3{
+            background-color: #825048;
+            margin-top: -15px;
+            margin-left: 98px;
+            box-shadow: inset;
+        }
+        #b3:hover{
+            box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+            background-color: bisque;}
+    
+            .parent3{
+                
+                background-color: rgb(0, 0, 0);
+                width: 322%;
+                height: 96px;
+                margin-top: 534px;
+                margin-left: -1279px;
+                display: flex;
+                border-radius: 2%;
+                margin-right: -97px;
+            }
+            #H3{
+                font-family: 'Uncial Antiqua', cursive;
+                text-align: left;
+                color: rgb(136, 2, 2);
+                margin-left: 111px;
+                width: 119%;
+            }
+
+            .img5{
+                width: 40%;
+    height: 295px;
+    border-radius: 50%;
+    margin-top: 56px;
+    margin-left: -150px;
+    padding: 19px;
+            }
+            #p4{
+                background-color: white;
+    margin-top: -230px;
+    margin-left: 337px;
+    width: 654px;
+    color: black;
+    border: 23px solid #232a37;
+            }
+.footer{
+    margin-top: 467px;
+    width: 50%;
+    padding: 100px 15%;
+    background-color: rgb(0, 0, 0);
+    color: rgb(239, 239, 239);
+    display: flex;
+    margin-left: -1666px;
+    margin-right: -101px;
+}
+.footer div{
+    text-align: center;
+    margin-top: -6px;
+    margin-bottom: 22px;
+    margin-left: 117px;
+}
+
+}
+.col-8{
+    flex-grow: 2px;
+
+}
+.footer div h3{
+    font-weight: 300px;
+    margin-bottom: 30px;
+    letter-spacing: 3px;
+    margin-top: -72px;
+    margin-left: 201px;
+}
+.col-7{
+    display: block;
+    text-decoration: none;
+    color: #efefef;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+form input{
+    width: 378px;
+    height: 45px;
+    border-radius: 4px;
+    text-align: center;
+    margin-top: -21px;
+    margin-bottom: 19px;
+    outline: none;
+    border: none;
+    margin-left: 95px;
+}
+form button{
+    background-color: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    border-radius: 30px;
+    padding: 10px 30px;
+    font-size: 15px;
+    cursor: pointer;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.socialicons{
+    margin-top: 30px;
+    font-size: 22px;
+    margin: 10px;
+    cursor: pointer;
+}
